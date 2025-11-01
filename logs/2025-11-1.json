@@ -1,0 +1,52 @@
+{
+  "journalDate": "2025-11-01",
+  "activityLog": {
+    "generalActivity": {
+      "activity": "Walking",
+      "metric": "steps",
+      "value": 10000
+    }
+  },
+  "nutritionLog": {
+    "lunch": {
+      "items": [
+        "0.5 cup whole grain rice",
+        "2 roasted chicken breasts (102 kcal each)",
+        "Miso soup with corn, tofu, and seaweed",
+        "1 whole grain bun with seeds and nuts",
+        "1 Milo packet",
+        "1 small bite of sugar donut"
+      ],
+      "estimatedCalories": 792
+    },
+    "dinner": {
+      "items": [
+        "1/4 serving of Tesco's shepherd's pie (~61 kcal)",
+        "2 roasted chicken breasts (102 kcal each)",
+        "1 Robekey vanilla protein shake",
+        "0.5 cup of whole grain rice",
+        "0.5 cup of boiled shrimp"
+      ],
+      "estimatedCalories": 713
+    }
+  },
+  "dailyAnalysis": {
+    "title": "Total Estimated Deficit",
+    "metrics": [
+      {
+        "metric": "Calories Eaten",
+        "estimated": "~1,505 kcal"
+      },
+      {
+        "metric": "Calories Burned",
+        "estimated": "~2,550 kcal",
+        "target": "~2,550 (Normal)"
+      },
+      {
+        "metric": "Net Result",
+        "estimated": "~1,045 kcal DEFICIT",
+        "target": "250 - 500 kcal Deficit"
+      }
+    ]
+  }
+}
